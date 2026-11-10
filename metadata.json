@@ -1,0 +1,6 @@
+{
+  "name": "ChromaCube Studio — Image to 3D LUT Generator",
+  "description": "Professional color science studio that extracts industry-standard .cube 3D LUTs and Hald CLUTs from any reference image with real-time trilinear preview, RGB scopes, and tonal zone mastering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
